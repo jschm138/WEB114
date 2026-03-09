@@ -4,7 +4,7 @@ alert(`Welcome to the Adventure Realm! Let's create your hero!`);
 
 const characterName = prompt(`What is your character's name?`, `Aragorn`);
 const pet = prompt(`What kind of pet does ${characterName} have? (dragon, wolf, robot, unicorn, phoenix, etc.)`, `wolf`);
-const superpower = prompt(`What is ${characterName}'s special superpower?`, `flying`);
+const superpower = prompt(`What is ${characterName}'s special superpower?`, `fighting`);
 const likesFighting = confirm(`Does ${characterName} like fighting monsters? 
 Click OK for YES
 Click Cancel for NO`);
