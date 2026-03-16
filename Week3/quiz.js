@@ -29,7 +29,7 @@ if (answer3 === 15)
 }
 else
 {
-	console.log(`Incorrect.... They was 15 amazing seasons!`);
+	console.log(`Incorrect.... There were 15 amazing seasons!`);
 }
 
 let answer4 = prompt(`What is Deans favorite dessert?`);
