@@ -22,7 +22,8 @@ if (crateInput === null) {
 			inspectedCount++;
 		}
 	}
-	
+
+	console.log(`\nTotal crates scanned: ${numCrates}`);
 	console.log(`\nNumber of fragile crates: ${fragileCount}`);
 	console.log(`Number of loaded crates: ${loadedCount}`);
 	console.log(`Number of inspected crates: ${inspectedCount}`);
